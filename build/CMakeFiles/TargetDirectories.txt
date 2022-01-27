@@ -1,0 +1,3 @@
+/Users/matheussilva/dev/other/projs/fd/build/CMakeFiles/fd.dir
+/Users/matheussilva/dev/other/projs/fd/build/CMakeFiles/ALL_BUILD.dir
+/Users/matheussilva/dev/other/projs/fd/build/CMakeFiles/ZERO_CHECK.dir
